@@ -8,7 +8,8 @@ A Full Stack Developer ready to create!
 
 ## :computer: Currently Focused On :
 -Deploying Portfolio Website\
--Finishing Multipe Projects
+-Finishing Multipe Projects\
+-Searching for collaborations
 
 ## :hammer_and_wrench: Tools :
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
