@@ -8,7 +8,7 @@ A Full Stack Developer ready to create!
 
 ## :computer: Currently Focused On :
 -Deploying Portfolio Website\
--Finishing Multipe Projects\
+-Finishing Multiple Projects\
 -Searching for collaborations
 
 ## :hammer_and_wrench: Tools :
